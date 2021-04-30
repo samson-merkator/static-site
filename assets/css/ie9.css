@@ -1,0 +1,43 @@
+
+
+/* BG */
+
+	#bg:before {
+		background: rgba(21, 128, 113, 0.5);
+
+	}
+
+/* Header */
+
+	#header .logo {
+		margin: 0 auto;
+	}
+
+	#header .content {
+		display: inline-block;
+	}
+
+	#header nav ul {
+		display: inline-block;
+	}
+
+		#header nav ul li {
+			display: inline-block;
+		}
+
+/* Main */
+
+	#main article {
+		margin: 0 auto;
+	}
+
+
+
+
+	body {
+		background-image: url('img_girl.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;  
+		background-size: cover;
+		background: rgba(19, 21, 25, 0.5);
+	  }
